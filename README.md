@@ -34,9 +34,4 @@ This project was created as part of my journey learning **React**, to apply core
 - Local Storage API  
 - Material UI  
 
----
 
-## 🚀 How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/repo-name.git
