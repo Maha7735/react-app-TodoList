@@ -1,7 +1,3 @@
-https://github.com/Maha7735/react-app-TodoList/blob/eebd8be35f574bb26d0a90248c9ee4578599e612/reactAppTodoList.jpg
-
-
-
 # 🧠 To-Do List App
 
 A simple and interactive **React** application designed to help manage daily tasks easily and efficiently.  
