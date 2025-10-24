@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-app-TodoList/static/css/main.8652fd43.css",
+    "main.js": "/react-app-TodoList/static/js/main.70202e54.js",
+    "static/js/453.eaf46b5d.chunk.js": "/react-app-TodoList/static/js/453.eaf46b5d.chunk.js",
+    "static/media/PTSerif-Regular.ttf": "/react-app-TodoList/static/media/PTSerif-Regular.6271ca9bf4c029802fc0.ttf",
+    "static/media/PTSerif-Bold.ttf": "/react-app-TodoList/static/media/PTSerif-Bold.baec85e607f452497274.ttf",
+    "static/media/Poppins-Regular.ttf": "/react-app-TodoList/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/JosefinSans-VariableFont_wght.ttf": "/react-app-TodoList/static/media/JosefinSans-VariableFont_wght.c464ea79c32a55349581.ttf",
+    "index.html": "/react-app-TodoList/index.html",
+    "main.8652fd43.css.map": "/react-app-TodoList/static/css/main.8652fd43.css.map",
+    "main.70202e54.js.map": "/react-app-TodoList/static/js/main.70202e54.js.map",
+    "453.eaf46b5d.chunk.js.map": "/react-app-TodoList/static/js/453.eaf46b5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8652fd43.css",
+    "static/js/main.70202e54.js"
+  ]
+}
